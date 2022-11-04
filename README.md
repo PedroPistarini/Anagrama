@@ -14,7 +14,7 @@ Utilizado da plataforma Visual Code ou para familiarizados Vscode!
 
 # Regras 
 
- > Formar palavras com quadro que irá aparecer!
- > Descubra 20 palavras escondidas!
- > Depois de 5 erros o jogo acaba!
- > Aperte ENTER para encerrar o jogo, a qualquer momento!
+ 1- Formar palavras com quadro que irá aparecer!
+ 2- Descubra 20 palavras escondidas!
+ 3- Depois de 5 erros o jogo acaba!
+ 4- Aperte ENTER para encerrar o jogo, a qualquer momento!
