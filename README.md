@@ -8,4 +8,4 @@ Esse projeto foi desenvolvido no Primeiro Semestre na matéria de Linguagem C, c
   
 # Como foi feito
  
-Utilizado da plataforma Visual Code ou para familiarizados Vscode
+Utilizado da plataforma Visual Code ou para familiarizados Vscode!
